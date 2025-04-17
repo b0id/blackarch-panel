@@ -1,6 +1,6 @@
 # BlackArch Panel
 
-A comprehensive tool management system for BlackArch Linux that provides an interactive CLI for browsing, searching, and accessing information about the BlackArch tool collection.
+A comprehensive tool management system for BlackArch Linux that categories metadata provides an interactive CLI for browsing, searching, and accessing information about the BlackArch tool collection.
 
 ## Features
 
